@@ -1,6 +1,6 @@
 # Digital Theodolite (Android prototype)
 
-A Kotlin/Android Studio prototype for the Redmi Note 13 Pro+ 5G.
+A Kotlin/Android Studio prototype for the android user such as redmi phones.
 
 ## What it does
 - Opens the rear camera preview with a center crosshair.
